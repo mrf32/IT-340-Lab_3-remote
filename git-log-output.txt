@@ -1,0 +1,38 @@
+git log
+commit b5967700f6a29562ccead3d7c4eaae050bb363a8
+Author: Madeline <mrf32@njit.edu>
+Date:   Wed Oct 15 13:17:09 2025 -0400
+
+    Revert "4th commit"
+    
+    This reverts commit 64fa62c200c7f1cf41e267464bcdd6f5488a759c.
+
+commit 64fa62c200c7f1cf41e267464bcdd6f5488a759c
+Author: Madeline <mrf32@njit.edu>
+Date:   Wed Oct 15 13:14:27 2025 -0400
+
+    4th commit
+    
+    Adding newfile.txt
+
+commit 3bac86ec4c3412ee306ae447e520142a512431a1
+Author: Madeline <mrf32@njit.edu>
+Date:   Wed Oct 15 13:11:49 2025 -0400
+
+    3rd commit
+    
+    Adding a comment to hostname
+
+commit d3b7f58c79807706748ca8caa51538af86d12394
+Author: Madeline <mrf32@njit.edu>
+Date:   Tue Oct 14 16:46:18 2025 -0400
+
+    2nd commit
+    Modifying os-release
+
+commit 6fb593ed33290c01de67c3227862f594b79a4664
+Author: Madeline <mrf32@njit.edu>
+Date:   Tue Oct 14 16:36:28 2025 -0400
+
+    Initial commit
+    Initial starting point of the repo
